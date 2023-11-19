@@ -25,7 +25,7 @@
     "immutability-helper": "^3.1.1",
     "is-image-url": "^1.1.8",
     "markdown-it": "^13.0.1",
-    "next": "^12.1.6",
+    "next": "^14.0.3",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-drag-drop-files": "^2.3.8",
